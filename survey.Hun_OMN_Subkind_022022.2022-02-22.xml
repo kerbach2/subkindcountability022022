@@ -1,0 +1,2825 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2022-02-22 11:55:58" program="oFb" progversion="3.2.55 1319">
+<title>Hun_OMN_Subkind_022022</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">hun</attr>
+<attr id="projectBackground">scientific</attr>
+</attributes.specific>
+<section>
+<title>Front and Backmatter</title>
+<attributes.specific program="ofb">
+<attr id="id">EX</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>Introduction</description>
+<class>select</class>
+<title>Üdvözöljük</title>
+<explanation>
+<![CDATA[Ebben a vizsgálatban azt kell megítélnie, hogy mennyire tűnik természetesnek néhány mondat az Ön számára. Arra vagyunk kíváncsiak, hogy az Ön első gondolatai alapján vajon egy magyarul beszélő ember ilyeneket mondana vagy írna-e természetesen. Minden egyes mondat elolvasása és megítélése csak néhány másodpercet vesz igénybe.
+
+A vizsgálat során nem gyűjtünk személyes adatokat. A vizsgálatból bármikor kiléphet. Ha bármilyen kérdése van, írjon e-mailt a tanulmány készítőjének, Dr. Kurt Erbachnak, az alábbi címre: erbach@hhu.de.
+
+Ha beleegyezik a részvételbe, kérjük, válassza az alábbi "beleegyezem" lehetőséget, és kezdje el a tanulmányt. Ha nem ért egyet, kérjük, most zárja be ezt a weboldalt.
+]]>
+</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>beleegyezem</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Prolific ID</description>
+<class>text</class>
+<title>Prolific ID</title>
+<explanation>Kérjük, adja meg a Prolific azonosítóját az alábbiakban. Ezt arra fogjuk használni, hogy megerősítsük, hogy Ön jogosan válaszolt a felmérésre, és nem véletlenszerű válaszokat választunk ki.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ID</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Finished</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Most már végzett a kérdőívvel. Köszönjük szépen, hogy befejezte!
+
+Kérjük, kattintson vissza a következő linkre a Prolifichez, és zárja be ezt az ablakot, ha ez nem történik meg automatikusan.
+
+https://app.prolific.co/submissions/complete?cc=FU8T6X0T]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Break</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Great work so far!
+
+Please continue whenever you feel ready.]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+</section>
+<section>
+<title>Group 1</title>
+<attributes.specific program="ofb">
+<attr id="id">G1</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>CO_bullet</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A pisztolyban hat golyó volt egymás tetején.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_glass</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A pincér egy poharat hozott az üveg borhoz.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_sportsgarment</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Vettem három sportruhát: egy futónadrágot és két futópólót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_good</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Vettem három árucikket: két szivacsot és egy üveg szappant.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_product</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az eladó elejtett három terméket: egy kabátot és két sálat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_apparel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom vett két ruházatot: egy pólót és egy nadrágot.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_bedding</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátomnak egy ágyneműje van, amit minden héten kimosnak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_plasticware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az ebéd két műanyagáruban volt: az egyik egy szendvicset tartalmazott, a másik gyümölcsöt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_tackle</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom négy horgászfelszerelést vett: két horgot és két súlyt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_china</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A gyerek összetört három porcelánt: egy tányért és két tálat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_garment</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a bolt csak két ruhát árul: nadrágot és pólót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_blanket</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom csak egy takarót szeret: a selyem takarót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_fishingaccessories</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom vett két horgász-kiegészítőt: horgot és súlyt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_dish</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A régiségkereskedő egy edényt árul: kemény porcelánt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_container</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Minden otthonban kéne lennie két műanyag tárolónak: tálnak és fedeles pohárnak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_ammunition</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kormány betiltott két lőszert: a lágypontosat és az üregeset.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_merchandise</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A boltban elfogyott két áru: a tisztítószer és a pékáru.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_sportswear</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a bolt három sportruházatra specializálódott: úszáshoz-, biciklizéshez- és futáshoz valóra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_stock</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A boltban kifogyott két készlet: a tisztítószer és a pékáru.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_glassware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a bár egy üvegáruban szolgálja fel az italokat: korsóban.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_beer</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ebben a bárban csak egy sört adnak: Sopronit.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_blood</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kórháznak két vérre van szüksége: 0 negatívra és B pozitívra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_water</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az étterem két vizet árul: szénsavmenteset és szénsavasat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_coffee</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a kávézó három kávét árul: Arabicát, Robustát és Libericát.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_soil</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A projekthez két talajra van szükség: trágyázottra és trágyázatlanra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Group 2</title>
+<attributes.specific program="ofb">
+<attr id="id">G2</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<question>
+<description>CO_garment</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom vett két ruhát: egy pólót és egy nadrágot. </text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_blanket</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátomnak egy takarója van, amit minden héten kimosnak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_fishingaccessory</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom vett négy horgász kiegészítőt: két horgot és két súlyt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_dish</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A gyerek összetört három edényt: egy tányért és két tálat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CO_container</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az ebéd két műanyag tárolónak volt: az egyik egy szendvicset tartalmazott, a másik gyümölcsöt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_ammunition</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A pisztolyban hat lőszer volt egymás tetején.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_glassware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A pincér egy üvegárut hozott az üveg borhoz.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_merchandise</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Vettem három árut: két szivacsot és egy üveg szappant.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_sportswear</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Vettem három sportruházatot: egy futónadrágot és két futópólót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMO_stock</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az eladó elejtett három készletet: egy kabátot és két sálat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_bullet</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kormány betiltott két golyót: a lágypontosat és az üregeset.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_glass</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a bár egy pohárban szolgálja fel az italokat: korsóban.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_good</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az élelmiszerboltból két árucikk fogyott el: a tisztítószerek és a sütőipari termékek.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_sportsgarmet</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez az üzlet három sportruhára specializálódott: úszáshoz-, biciklizéshez és futáshoz valóra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CSK_product</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A boltban elfogyott két termék: a tisztítószer és a pékáru.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_apparel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a férfi ruhabolt csak két ruházatot árul: nadrágot és pólót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_badding</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom csak egy ágyneműt szeret: a selyem ágyneműt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_plasticware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Minden otthonban kéne lennie két műanyagárunak: tálnak és fedeles pohárnak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_tackle</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom vett két horgászfelszerelést: horgot és súlyt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>OMSK_china</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A régiségkereskedő egy porcelánt árul: kemény porcelánt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_wine</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom csak egy borral ünnepel: pezsgővel.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_sand</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A projekthez három homokra van szükség: vörös-, fehér- és fekete homokra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_gold</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a gyűrű két aranyból készült: fehér- és rózsaaranyból.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_steel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A legjobb serpenyő egy acélból készül: szénacélból.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMSK_wood</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<lead>Ez az asztal három fából készült: ébenfából, mahagóniból és magyalból.</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez az asztal három fából készült: ébenfából, mahagóniból és magyalból.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Filler 1 Infelicetous</title>
+<attributes.specific program="ofb">
+<attr id="id">F1</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<question>
+<description>beer</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Barnasörön át úsztam: hátban és pillangóban.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>wine</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A bolt vörösborra mászott, mind magasabbra.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>blood</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A cipő zöld vérből készült; nincs szénlábnyom.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sand</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kórháznak fehér homokra van szüksége: a régiek piszkosak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>water</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az edények vízből vannak; a legjobb minőség, ami létezik.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>coffee</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A régiségkereskedő a királyi családtól való lila kávét árul.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>soil</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az étterem trágyázott talajt árul; a legjobb ízűt a városban.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>gold</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A bár rózsaaranyat árul: Sopronit.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>steel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kávézónak van szénacélja: Arabica, Robusta és Liberica.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>wood</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az üveg tele van  fával, amit ma reggel frissen készítettem.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>ammunition</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A kormány betiltotta a folyékony lőszert; nincs több vízipisztoly.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>apparel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ebben a bárban ruhában lévő italokat szolgálnak fel: korsókat és borospoharakat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>glassware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a férfi ruhabolt ködös üvegárut árul: nadrágokat és ingeket.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>bedding</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A barátom csak a szent ágyneműt szereti: a krumplit.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>merchandise</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Minden otthonban kéne lennie fából készült árunak: tisztítószernek és pékárunak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>plasticware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az üzletben van nukleáris műanyagáru: asztal és szék.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sportswear</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a város betiltotta az elektromos sportruházatot: az úszáshoz-, a biciklizéshez- és a futáshoz valót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>tackle</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Minden otthonban lennie kéne bolyhos horgászfelszerelésnek: horognak és súlynak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>stock</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A boltban kifogyott az optikai készlet: a péksütemény és a kenyér.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>china</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A rendőrség csúcstechnológiás porcelánt vásárolt: kemény porcelánt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>good</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az eladó súlytalan cikkeket  rakott ki: italt és terményt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>container</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az otthonomban vannak légtartályok: dobozok és vödrök.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sport-garment</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A cég fából készült sportruhát vásárolt: úszáshoz-, biciklizéshez- és futáshoz valót.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>fishing-accessory</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A sportoló szent horgászkiegészítőket talált: botokat és orsókat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>product</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A gyógyszertárban elfogytak a piros termékek: a testápoló és a fájdalomcsillapító.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Filler 2 Felicetous</title>
+<attributes.specific program="ofb">
+<attr id="id">F2</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<question>
+<description>bullet</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A faág letört, mikor eltalálta egy golyó.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>garment</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ezek a ruhák gyapjúból vannak.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>glass</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Zsofia egy pohár narancslevet és egy csésze kávét kért magának.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sheets</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Talán szeretnéd megvizsgálni az ágyneműt?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>goods</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez a cég főként napi fogyasztási cikkekkel foglalkozik.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>container</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ezt a rovatot akkor használja, ha a szállítmányra rögzített eredeti plombát a konténer kinyitásakor eltávolítják.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>accesories</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Disznóbőrből van, különböző színekben hozzávaló kiegészítőkkel vagy anélkül.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>products</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A sajt és a vaj tejből készült termékek.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>dishes</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az én munkám az edények mosogatása.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>ammunition</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Nem említett Ana valakit, aki esetleg azt a fajta lőszert árulhatja az utcán?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sheets</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Nyugovóra tértem, ódon szobámban az ágynemű most még nyirkosabb volt, mint délelőtt.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>apparel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Textil-, ruházat- és bőrkészítésre szolgáló gép javítása és karbantartása.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>glassware</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Laboratóriumi, higiéniai vagy gyógyszerészeti üvegáru, fokbeosztással vagy anélkül.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>merchandise</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Láttam, hogy valaki ellopta az árut.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>stock</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A még meglévő tevékenységi területekhez kapcsolódó teljes árukészlet eladásra került.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>china</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A drága porcelán darabokra tört</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>soil</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Az ökológiai növénytermesztés a növényeknek elsősorban a talaj ökoszisztémáján keresztül történő táplálásán alapul.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>gold</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Azt gondolom, hogy biztosan sok arany van a Föld mélyén.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sand</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Amerre a szem ellát, nincs más csak homok.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>wine</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Hová tűnt a bor az üvegből?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>water</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ugyanannyi víz maradt ebben a palackban, mint abban.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>beer</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">22</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez az üveg sör majdnem nagyobb, mint te.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>coffee</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">23</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ez az üveg sör majdnem nagyobb, mint te.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>wood</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">24</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>A gyerek még több fát tett a tűzre.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>steel</description>
+<class>scale</class>
+<title />
+<explanation>Hogyan értékelné a következő mondatot egy 1-es „nagyon természetellenes” és 7-es „nagyon természetes” skálán?</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nagyon természetellenes</li>
+<li i="7">nagyon természetes</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">25</attr>
+<attr id="scale.display">complete</attr>
+<attr id="scale.niveau">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Acélt vettek, hogy kardot készítsenek belőle.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="hun"><![CDATA[<a href="mailto:erbach@uni-duesseldorf.de">Dr. Kurt Erbach</a>, 
+The University of Bonn – 2022]]></txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Questionnaire</title>
+<attributes.specific program="ofb">
+<attr id="id">base</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page intID=&quot;1&quot;&gt;
+&lt;question id=&quot;EX01&quot; intID=&quot;2&quot; /&gt;
+&lt;question id=&quot;EX02&quot; intID=&quot;3&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page intID=&quot;4&quot;&gt;
+&lt;php intID=&quot;8&quot;&gt;&lt;![CDATA[
+// shuffle list just once 
+if (!isset($questions)) {
+  // make a list of question IDs
+  $questions = array(
+    'G101', 'G102', 'G103', 'G104', 'G105', 'G106', 'G107', 'G108', 'G109', 'G110', 'G111', 'G112', 'G113', 'G114', 'G115', 'G116', 'G117', 'G118', 'G119', 'G120', 'G121', 'G122', 'G123', 'G124', 'G125', 'F101', 'F102', 'F103', 'F104', 'F105', 'F106', 'F107', 'F108', 'F109', 'F110', 'F111', 'F112', 'F113','F201', 'F202', 'F203', 'F204', 'F205', 'F206', 'F207', 'F208', 'F209', 'F210', 'F211', 'F212'
+  );
+  // shuffle list randomly
+  shuffle($questions);
+  // make lists available on all pages
+  registerVariable('questions');
+}
+
+// display questions one at a time, with each one on their own page
+$i = loopPage(count($questions));
+question($questions[$i]);
+option('progress', $i/1.01);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 3 --&gt;
+&lt;page intID=&quot;5&quot;&gt;
+&lt;question id=&quot;EX04&quot; intID=&quot;6&quot; /&gt;
+&lt;php intID=&quot;10&quot;&gt;
+option('progress', 50);
+&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 4 --&gt;
+&lt;page intID=&quot;7&quot;&gt;
+&lt;php intID=&quot;9&quot;&gt;&lt;![CDATA[
+// shuffle list just once 
+if (!isset($questionss)) {
+  // make a list of question IDs
+  $questionss = array(
+    'G201', 'G202', 'G203', 'G204', 'G205', 'G206', 'G207', 'G208', 'G209', 'G210', 'G211', 'G212', 'G213', 'G214', 'G215', 'G216', 'G217', 'G218', 'G219', 'G220', 'G221', 'G222', 'G223', 'G224', 'G225', 'F114', 'F115', 'F116', 'F117', 'F118', 'F119', 'F120', 'F121', 'F122', 'F123', 'F124', 'F125', 'F213', 'F214', 'F215', 'F216', 'F217', 'F218', 'F219', 'F220', 'F221', 'F222', 'F223', 'F224', 'F225'
+  );
+  // shuffle list randomly
+  shuffle($questionss);
+  // make lists available on all pages
+  registerVariable('questionss');
+}
+
+// display questions one at a time, with each one on their own page
+$i = loopPage(count($questionss));
+question($questionss[$i]);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Most már végzett a kérdőívvel. Köszönjük szépen, hogy befejezte!</h1>
+
+<p>Kérjük, kattintson vissza a következő linkre a Prolifichez, és zárja be ezt az ablakot, ha ez nem történik meg automatikusan.</p>
+
+<!-- Insert information on the study or a contact option here -->
+
+
+<a href="https://app.prolific.co/submissions/complete?cc=FU8T6X0T">https://app.prolific.co/submissions/complete?cc=FU8T6X0T</a>
+
+
+
+
+<!-- Additional spacing (remove or adjust as required)  -->
+<div style="padding-bottom: 120px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+</attributes.specific>
+</questionnaire>
+</surveyProject>

@@ -32,4 +32,4 @@ anova(null, model)
 
 ### Paired t-Test
 
-t.test(substancemass,objectmass,paired=TRUE)
+t.test(substancemass,objectmass,paired=FALSE)
